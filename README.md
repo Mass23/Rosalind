@@ -61,6 +61,6 @@ Rosalind.info - Exercises
 	  	  	 
 30. SSEQ
 	  	  	 
-31. TREE 	
+31. TREE: [script](completing_a_tree.py)	
 	  	  	 
 32. LEXV
