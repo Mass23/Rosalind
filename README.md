@@ -23,6 +23,9 @@ Rosalind.info - Exercises
   - C++: [script](gc_content.cpp)
 
 6. Hamming distance:
+  - Python:
+  - C++:
+  - R: [script](hamming_distance.R)
 
 7. IPRB
 
