@@ -1,8 +1,4 @@
 TranscribeSequence <- function(sequence){
-  acount = 0
-  ccount = 0
-  gcount = 0
-  tcount = 0
   trans_seq = ""
   
   seq_split <- strsplit(sequence, "")[[1]]
