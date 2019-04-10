@@ -4,6 +4,7 @@ Rosalind.info - Exercises
 1. DNA: 
   - Python: 
   - C++: [script](counting_nucleotides.cpp)
+  - R: [script](counting_nucleotides.R)
 
 2. RNA_
   - Python:
