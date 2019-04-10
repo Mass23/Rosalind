@@ -10,6 +10,8 @@ Rosalind.info - Exercises
   - C++: [script](transcribe_dna.cpp)
 
 3. REVC
+  - Python:
+  - C++: [script](reverse_complement.cpp)
 
 4. FIB
 
