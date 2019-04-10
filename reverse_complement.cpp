@@ -9,7 +9,7 @@ int main(int argc, char **argv) {
     std::string    line;
 
     cout << "-------------------------\n";
-    cout << "     Transcribe DNA:    \n";
+    cout << "   Reverse complement:   \n";
     cout << "-------------------------\n";
 
     while(std::getline(fin, line)) {
