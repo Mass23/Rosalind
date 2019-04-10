@@ -7,7 +7,6 @@ NucleotideCounter <- function(sequence){
   seq_split <- strsplit(sequence, "")[[1]]
   
   for (i in seq_split){
-    print(i)
     
     if (i == 'A'){
       acount = acount + 1
