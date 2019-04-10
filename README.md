@@ -1,7 +1,9 @@
 # Rosalind
 Rosalind.info - Exercises
 
-1. DNA
+1. DNA: 
+  - Python: 
+  - C++: [script](counting_nucleotides.cpp)
 
 2. RNA
 
@@ -23,7 +25,8 @@ Rosalind.info - Exercises
 
 11. GRPH
 
-12. IEV: [script](calculating_expected_offspring.py)
+12. IEV: 
+  - Python: [script](calculating_expected_offspring.py)
 
 13. PERM
 
@@ -35,7 +38,8 @@ Rosalind.info - Exercises
 
 17. TRAN
 
-18. KMER: [script](kmer_composition.py)
+18. KMER: 
+  - Python: [script](kmer_composition.py)
 
 19. FIBD
 	  	  	 
@@ -49,7 +53,8 @@ Rosalind.info - Exercises
 	  	  	 
 24. ORF
 	  	  	 
-25. REVP: [script](locating_restriction_site.py)
+25. REVP: 
+  - Python: [script](locating_restriction_site.py)
 
 26. LONG	
 	  	  	 
@@ -61,6 +66,7 @@ Rosalind.info - Exercises
 	  	  	 
 30. SSEQ
 	  	  	 
-31. TREE: [script](completing_a_tree.py)	
+31. TREE: 
+  - Python: [script](completing_a_tree.py)	
 	  	  	 
 32. LEXV
