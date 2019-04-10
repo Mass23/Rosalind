@@ -16,6 +16,8 @@ Rosalind.info - Exercises
 4. FIB
 
 5. GC
+  - Python:
+  - C++: [script](gc_content.cpp)
 
 6. HAMM
 
