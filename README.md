@@ -5,7 +5,9 @@ Rosalind.info - Exercises
   - Python: 
   - C++: [script](counting_nucleotides.cpp)
 
-2. RNA
+2. RNA_
+  - Python:
+  - C++: [script](transcribe_dna.cpp)
 
 3. REVC
 
