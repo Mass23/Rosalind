@@ -14,6 +14,7 @@ Rosalind.info - Exercises
 3. Reverse complement:
   - Python:
   - C++: [script](reverse_complement.cpp)
+  - R: [script](reverse_complement.R)
 
 4. Fibonacci rabbits:
 
