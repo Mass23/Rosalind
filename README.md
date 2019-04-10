@@ -21,6 +21,7 @@ Rosalind.info - Exercises
 5. GC content:
   - Python:
   - C++: [script](gc_content.cpp)
+  - R: [script](gc_content.R)
 
 6. Hamming distance:
   - Python:
