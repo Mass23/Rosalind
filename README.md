@@ -2,29 +2,24 @@
 Rosalind.info - Exercises
 
 1. Count nucleotides: 
-  - Python: 
   - C++: [script](counting_nucleotides.cpp)
   - R: [script](counting_nucleotides.R)
 
 2. Transcribe DNA:
-  - Python:
-  - C++: [script](transcribe_dna.cpp)
+  - Python:  - C++: [script](transcribe_dna.cpp)
   - R: [script](transcribe_dna.R)
 
 3. Reverse complement:
-  - Python:
   - C++: [script](reverse_complement.cpp)
   - R: [script](reverse_complement.R)
 
 4. Fibonacci rabbits:
 
 5. GC content:
-  - Python:
   - C++: [script](gc_content.cpp)
   - R: [script](gc_content.R)
 
 6. Hamming distance:
-  - Python:
   - C++: [script](hamming_distance.cpp)
   - R: [script](hamming_distance.R)
 
