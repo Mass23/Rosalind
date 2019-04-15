@@ -6,7 +6,8 @@ Rosalind.info - Exercises
   - R: [script](counting_nucleotides.R)
 
 2. Transcribe DNA:
-  - Python:  - C++: [script](transcribe_dna.cpp)
+  - Python:  
+  - C++: [script](transcribe_dna.cpp)
   - R: [script](transcribe_dna.R)
 
 3. Reverse complement:
