@@ -23,7 +23,8 @@ Rosalind.info - Exercises
   - C++: [script](hamming_distance.cpp)
   - R: [script](hamming_distance.R)
 
-7. IPRB
+7. Mendel's first law:
+  - C++: [script](mendels_first_law.cpp)
 
 8. PROT
 
